@@ -2,12 +2,14 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 * Awesome - Most Cited Deep Learning Papers - https://github.com/terryum/awesome-deep-learning-papers
 * free-for-dev - https://github.com/ripienaar/free-for-dev
+* Project Ara - https://github.com/projectara
 
 ## Unix/Linux
 * Linux - https://github.com/torvalds/linux
 * eLinux - http://elinux.org
 * Free Eletrons Linux source browser - http://lxr.free-electrons.com/
-* 
+ 
+
 ## Machine Learning 
 * waifu2x - https://github.com/nagadomi/waifu2x
 * Microsoft Computational Network Toolkit (CNTK) - https://github.com/Microsoft/CNTK
