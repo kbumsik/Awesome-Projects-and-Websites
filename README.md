@@ -25,6 +25,7 @@
 
 ## Real Time Operating Systems
 * FreeRTOS - http://www.freertos.org/
+* Apach Mynewt - http://mynewt.apache.org/
 * Nuttx - http://nuttx.org/
 * RIOT - http://www.riot-os.org
 * Contiki - http://www.contiki-os.org/
