@@ -11,6 +11,7 @@
 * Linux - https://github.com/torvalds/linux
 * eLinux - http://elinux.org
 * Free Eletrons Linux source browser - http://lxr.free-electrons.com/
+* Open vmware patch - https://github.com/rasa/vmware-tools-patches
  
 
 ## Machine Learning 
