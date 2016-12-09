@@ -4,40 +4,35 @@
 * free-for-dev - https://github.com/ripienaar/free-for-dev
 * Project Ara - https://github.com/projectara
 
-Good Books and references
--------------------------
-* ECMA 6 features - https://github.com/lukehoban/es6features
+# Good Books and references
 
-System Programing
------------------
+* ECMA 6 features - https://github.com/lukehoban/es6features
+* AOSA - https://github.com/aosabook/500lines
+
+# System Programing
 
 * Checked C by Microsoft - https://github.com/Microsoft/checkedc
 
-Unix/Linux
-----------
+# Unix/Linux
 
 * Linux - https://github.com/torvalds/linux
 * eLinux - http://elinux.org
 * Free Eletrons Linux source browser - http://lxr.free-electrons.com/
 * Open vmware patch - https://github.com/rasa/vmware-tools-patches
  
-
-Machine Learning
-----------------
+# Machine Learning
 
 * waifu2x - https://github.com/nagadomi/waifu2x
 * Microsoft Computational Network Toolkit (CNTK) - https://github.com/Microsoft/CNTK
 * Caffe: a fast open framework for deep learning - https://github.com/BVLC/caffe
 * libsvm - https://github.com/cjlin1/libsvm
 
-Robotics
---------
+# Robotics
 
 * PX4 Pro Drone Autopilot - https://github.com/PX4
 * Ardupilot - https://github.com/ArduPilot
 
-Real Time Operating Systems
----------------------------
+# Real Time Operating Systems
 
 * FreeRTOS - http://www.freertos.org/
 * Apach Mynewt - http://mynewt.apache.org/
@@ -47,13 +42,11 @@ Real Time Operating Systems
 * Zephyr - https://www.zephyrproject.org/
 * Frosted - https://github.com/insane-adding-machines
 
-Internet Protocols
-------------------
+# Internet Protocols
 
 * Paho MQTT-SN - https://github.com/eclipse/paho.mqtt-sn.embedded-c
 
-Internet of Things
-------------------
+# Internet of Things
 
 * OpenThread - https://github.com/openthread
 * Soletta IoT framework - https://github.com/solettaproject
@@ -62,20 +55,17 @@ Internet of Things
 * Wiselib wireless sensor network algorithm - https://github.com/ibr-alg/wiselib
 * HAP-NodeJS - https://github.com/KhaosT/HAP-NodeJS
 
-Algorithm
----------
+# Algorithm
 
 * TinyEKF: Lightweight C/C++ Extended Kalman Filter - https://github.com/simondlevy/TinyEKF
 * Micromouse diagonal pathfinder - https://github.com/micromouseonline/diagonal-pathfinder
 * Micromouse smooth pathfinder - https://github.com/micromouseonline/smooth-pathfinder
 
-Projects to study
------------------
+# Projects to study
 * Super Light Regular Expression library - https://github.com/cesanta/slre
 * Intel Realsense library - https://github.com/IntelRealSense/librealsense
 
-Hardware designs
-------------------
+# Hardware designs
 
 * ARMmbed Wearable Reference Design - 
 * CC3100 for Linux - https://github.com/rpricken/cc3100-linux
@@ -83,26 +73,23 @@ Hardware designs
 * Wipy - https://github.com/wipy/wipy
 * BeagleBone WL1835MOD W/ CHIP ANTENNA - https://github.com/CircuitCo/WL1835MOD
 
-Embedded System
----------------
+# Embedded System
+
 * CMSIS 5 - https://github.com/ARM-software/CMSIS_5
 * Espruino JS engine - https://github.com/espruino/Espruino
 * Samsung JerryScript - https://github.com/Samsung/jerryscript
 * Samsung IoT.JS - https://github.com/Samsung/iotjs
 
-JSON Implementations
---------------------
+# JSON Implementations
 
 * ArduinoJson - https://github.com/bblanchon/ArduinoJson
 * cJSON - https://github.com/DaveGamble/cJSON
 
+# Device Drivers
 
-Tools on Web
---------------
+* Arduino ATWINC1500 driver - https://github.com/arduino-libraries/WiFi101
 
-* Stackedit in-browser markdown editor - https://github.com/benweet/stackedit
-
-Device Drivers
---------------
-
-* Adafruit WINC1500 driver - https://github.com/adafruit/Adafruit_WINC1500
+# Open source Bluetooth stack
+* MyNewt NimBle - https://github.com/apache/incubator-mynewt-core/tree/develop
+* BTStack - https://github.com/bluekitchen/btstack/
+* Blessed - https://github.com/pauloborges/blessed
