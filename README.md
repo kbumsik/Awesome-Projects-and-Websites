@@ -3,22 +3,21 @@
 
 <!-- vscode-markdown-toc -->
 1. [Other Awesomes](#OtherAwesomes)
-2. [Projects to study](#Projectstostudy)
-3. [Good Books and references](#GoodBooksandreferences)
-4. [Algorithm](#Algorithm)
-	* 4.1. [Machine Learning](#MachineLearning)
-5. [System Programming](#SystemProgramming)
-6. [Internet](#Internet)
-	* 6.1. [JSON Implementations](#JSONImplementations)
-	* 6.2. [Internet of Things](#InternetofThings)
-7. [Embedded System](#EmbeddedSystem)
-	* 7.1. [Real Time Operating Systems](#RealTimeOperatingSystems)
-	* 7.2. [Hardware designs](#Hardwaredesigns)
-	* 7.3. [Device Drivers](#DeviceDrivers)
-	* 7.4. [Open source Bluetooth stack](#OpensourceBluetoothstack)
-	* 7.5. [Robotics](#Robotics)
-8. [Engineering](#Engineering)
-	* 8.1. [EDA-Related](#EDA-Related)
+2. [Good Books and references](#GoodBooksandreferences)
+3. [Algorithm](#Algorithm)
+	* 3.1. [Machine Learning](#MachineLearning)
+4. [System Programming](#SystemProgramming)
+5. [Internet](#Internet)
+	* 5.1. [JSON Implementations](#JSONImplementations)
+	* 5.2. [Internet of Things](#InternetofThings)
+6. [Embedded System](#EmbeddedSystem)
+	* 6.1. [Real Time Operating Systems](#RealTimeOperatingSystems)
+	* 6.2. [Hardware designs](#Hardwaredesigns)
+	* 6.3. [Device Drivers](#DeviceDrivers)
+	* 6.4. [Open source Bluetooth stack](#OpensourceBluetoothstack)
+	* 6.5. [Robotics](#Robotics)
+7. [Engineering](#Engineering)
+	* 7.1. [EDA-Related](#EDA-Related)
 
 <!-- /vscode-markdown-toc -->
 
@@ -26,39 +25,40 @@
 * Awesome - Most Cited Deep Learning Papers - https://github.com/terryum/awesome-deep-learning-papers
 * free-for-dev - https://github.com/ripienaar/free-for-dev
 
-##  2. <a name='Projectstostudy'></a>Projects to study
-* Super Light Regular Expression library - https://github.com/cesanta/slre
-* Intel Realsense library - https://github.com/IntelRealSense/librealsense
 
-##  3. <a name='GoodBooksandreferences'></a>Good Books and references
+##  2. <a name='GoodBooksandreferences'></a>Good Books and references
 * ECMA 6 features - https://github.com/lukehoban/es6features
 * AOSA - https://github.com/aosabook/500lines
 
  
-##  4. <a name='Algorithm'></a>Algorithm
+##  3. <a name='Algorithm'></a>Algorithm
 * TinyEKF: Lightweight C/C++ Extended Kalman Filter - https://github.com/simondlevy/TinyEKF
 * Micromouse diagonal pathfinder - https://github.com/micromouseonline/diagonal-pathfinder
 * Micromouse smooth pathfinder - https://github.com/micromouseonline/smooth-pathfinder
+* Super Light Regular Expression library - https://github.com/cesanta/slre
 
-###  4.1. <a name='MachineLearning'></a>Machine Learning
+###  3.1. <a name='MachineLearning'></a>Machine Learning
 * waifu2x - https://github.com/nagadomi/waifu2x
 * Microsoft Computational Network Toolkit (CNTK) - https://github.com/Microsoft/CNTK
 * Caffe: a fast open framework for deep learning - https://github.com/BVLC/caffe
 * libsvm - https://github.com/cjlin1/libsvm
 
-##  5. <a name='SystemProgramming'></a>System Programming
+
+##  4. <a name='SystemProgramming'></a>System Programming
 * Linux - https://github.com/torvalds/linux
 * eLinux - http://elinux.org
 * Free Eletrons Linux source browser - http://lxr.free-electrons.com/
 * Open vmware patch - https://github.com/rasa/vmware-tools-patches
+* LEDE (Linux Embedded Development Environment) - https://github.com/lede-project/source
 
-##  6. <a name='Internet'></a>Internet
 
-###  6.1. <a name='JSONImplementations'></a>JSON Implementations
+##  5. <a name='Internet'></a>Internet
+
+###  5.1. <a name='JSONImplementations'></a>JSON Implementations
 * ArduinoJson - https://github.com/bblanchon/ArduinoJson
 * cJSON - https://github.com/DaveGamble/cJSON
 
-###  6.2. <a name='InternetofThings'></a>Internet of Things
+###  5.2. <a name='InternetofThings'></a>Internet of Things
 * OpenThread - https://github.com/openthread
 * Soletta IoT framework - https://github.com/solettaproject
 * ARMmbed wearable-reference-design-example-message-center - https://github.com/ARMmbed/wearable-reference-design-example-message-center
@@ -68,13 +68,13 @@
 * Paho MQTT-SN - https://github.com/eclipse/paho.mqtt-sn.embedded-c
 
 
-##  7. <a name='EmbeddedSystem'></a>Embedded System
+##  6. <a name='EmbeddedSystem'></a>Embedded System
 * CMSIS 5 - https://github.com/ARM-software/CMSIS_5
 * Espruino JS engine - https://github.com/espruino/Espruino
 * Samsung JerryScript - https://github.com/Samsung/jerryscript
 * Samsung IoT.JS - https://github.com/Samsung/iotjs
 
-###  7.1. <a name='RealTimeOperatingSystems'></a>Real Time Operating Systems
+###  6.1. <a name='RealTimeOperatingSystems'></a>Real Time Operating Systems
 * FreeRTOS - http://www.freertos.org/
 * Apach Mynewt - http://mynewt.apache.org/
 * Nuttx - http://nuttx.org/
@@ -83,28 +83,29 @@
 * Zephyr - https://www.zephyrproject.org/
 * Frosted - https://github.com/insane-adding-machines
 
-###  7.2. <a name='Hardwaredesigns'></a>Hardware designs
+###  6.2. <a name='Hardwaredesigns'></a>Hardware designs
 * ARMmbed Wearable Reference Design - 
 * CC3100 for Linux - https://github.com/rpricken/cc3100-linux
 * PixRacer - https://github.com/hyper-it/PixRacer
 * Wipy - https://github.com/wipy/wipy
 * BeagleBone WL1835MOD W/ CHIP ANTENNA - https://github.com/CircuitCo/WL1835MOD
 
-###  7.3. <a name='DeviceDrivers'></a>Device Drivers
+###  6.3. <a name='DeviceDrivers'></a>Device Drivers
 * Arduino ATWINC1500 driver - https://github.com/arduino-libraries/WiFi101
 
-###  7.4. <a name='OpensourceBluetoothstack'></a>Open source Bluetooth stack
+###  6.4. <a name='OpensourceBluetoothstack'></a>Open source Bluetooth stack
 * MyNewt NimBle - https://github.com/apache/incubator-mynewt-core/tree/develop
 * BTStack - https://github.com/bluekitchen/btstack/
 * Blessed - https://github.com/pauloborges/blessed
 
-###  7.5. <a name='Robotics'></a>Robotics
+###  6.5. <a name='Robotics'></a>Robotics
 * PX4 Pro Drone Autopilot - https://github.com/PX4
 * Ardupilot - https://github.com/ArduPilot
+* Intel Realsense library - https://github.com/IntelRealSense/librealsense
 
 
-##  8. <a name='Engineering'></a>Engineering
+##  7. <a name='Engineering'></a>Engineering
 * Good FFT Tutorial by Adafruit - https://learn.adafruit.com/fft-fun-with-fourier-transforms?view=all
 
-###  8.1. <a name='EDA-Related'></a>EDA-Related
+###  7.1. <a name='EDA-Related'></a>EDA-Related
 * KiCad Collections - https://github.com/monostable/kicad_footprints#kicad-footprint-collection
