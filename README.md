@@ -97,6 +97,7 @@
 * MyNewt NimBle - https://github.com/apache/incubator-mynewt-core/tree/develop
 * BTStack - https://github.com/bluekitchen/btstack/
 * Blessed - https://github.com/pauloborges/blessed
+* BlueZ (Architecture Overview) - http://www.bluez.org/bluez-architecture-overview/
 
 ###  6.5. <a name='Robotics'></a>Robotics
 * PX4 Pro Drone Autopilot - https://github.com/PX4
