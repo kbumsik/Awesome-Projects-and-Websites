@@ -48,6 +48,9 @@
 * Microsoft Computational Network Toolkit (CNTK) - https://github.com/Microsoft/CNTK
 * Caffe: a fast open framework for deep learning - https://github.com/BVLC/caffe
 * libsvm - https://github.com/cjlin1/libsvm
+* Fast Artificial Neural Network Library - https://github.com/libfann/fann
+  * Use cases [1-0](https://sebastianfoerster86.wordpress.com/2016/11/07/robot-controlled-by-artificial-neural-network/),
+  [1-1](https://github.com/Counterfeiter/Q-LearningRobot)
 
 
 ## System Programming
@@ -57,6 +60,7 @@
 * Free Eletrons Linux source browser - http://lxr.free-electrons.com/
 * Open vmware patch - https://github.com/rasa/vmware-tools-patches
 * LEDE (Linux Embedded Development Environment) - https://github.com/lede-project/source
+* Tiny C Compiler - http://bellard.org/tcc/
 
 
 ## Internet
@@ -84,6 +88,7 @@
 * Espruino JS engine - https://github.com/espruino/Espruino
 * Samsung JerryScript - https://github.com/Samsung/jerryscript
 * Samsung IoT.JS - https://github.com/Samsung/iotjs
+* simavr (AVR simulator) - https://github.com/buserror/simavr/tree/jit-wip
 
 ### Real Time Operating Systems
 
@@ -112,6 +117,7 @@
 * MyNewt NimBle - https://github.com/apache/incubator-mynewt-core/tree/develop
 * BTStack - https://github.com/bluekitchen/btstack/
 * Blessed - https://github.com/pauloborges/blessed
+* BlueZ (Architecture Overview) - http://www.bluez.org/bluez-architecture-overview/
 
 ### Robotics
 
